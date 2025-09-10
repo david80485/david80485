@@ -1,5 +1,5 @@
 # 👋 Hola, soy David Valbuena  
-
+![Portada personal](assets/portada.png)
 ### QA Engineer | Manual & Automation Testing | Continuous Improvement  
 
 🔎 Apasionado por el aseguramiento de calidad, con experiencia en **pruebas manuales y automatizadas** para aplicaciones web y móviles.  
