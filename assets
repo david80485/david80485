@@ -1,1 +1,7 @@
 
+"![Portada personal](assets/portada.png)" >> README.md
+
+git add README.md
+git commit -m "Add README with portada"
+git push origin main
+
