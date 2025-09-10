@@ -44,7 +44,7 @@ Estoy reforzando mis habilidades técnicas con:
 ---
 
 ## 📫 Conecta conmigo  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(añade tu enlace real)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dafevaro/) 
 - 📧 Email: **Davidrodriguez290@gmail.com**  
 - 📍 Fusagasugá, Colombia  
 
