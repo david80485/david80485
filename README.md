@@ -3,10 +3,6 @@
   <img src="assets/portada.png" alt="Portada personal" />
 </p>
 
-<!-- Portada -->
-<p align="center">
-  <img src="assets/portada.png" alt="Portada personal" />
-</p>
 
 # 👋 Hello, soy David Valbuena Rodriguez
 
