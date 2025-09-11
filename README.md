@@ -1,54 +1,49 @@
-# 👋 Hola, soy David Valbuena  
-![Portada personal](assets/portada.png)
-### QA Engineer | Manual & Automation Testing | Continuous Improvement  
+<!-- Portada -->
+<p align="center">
+  <img src="assets/portada.png" alt="Portada personal" />
+</p>
 
-🔎 Apasionado por el aseguramiento de calidad, con experiencia en **pruebas manuales y automatizadas** para aplicaciones web y móviles.  
-He trabajado en entornos **ágiles (Scrum/Kanban)** colaborando con equipos multidisciplinarios para garantizar la entrega de productos confiables y de alto valor.  
+# 👋 Hola, soy David Valbuena Rodríguez
 
----
+💻 **QA Engineer | Software Tester | Junior Developer en formación**  
 
-## 🚀 Sobre mí  
-- 🧪 Experiencia en **pruebas funcionales, regresión, smoke, exploratorias y UAT**.  
-- 🤖 Automatización con **Appium, Cypress, Selenium, JUnit, TestNG**.  
-- 🌐 Validación de APIs con **Postman y SoapUI**.  
-- ⚡ Pruebas de rendimiento con **JMeter**.  
-- 💾 Manejo de **consultas SQL** para validación de datos en backend.  
-- ☁️ Experiencia en entornos cloud **AWS y GCP**.  
-- 🔧 Herramientas de gestión: **Jira, Azure DevOps, Git**.  
+Soy un profesional en calidad de software con experiencia en **pruebas funcionales, diseño de casos de prueba y validación de APIs**.  
+Actualmente me estoy especializando en **automatización de pruebas** y en el aprendizaje de **Python y Ruby** para ampliar mis capacidades técnicas.
 
 ---
 
-## 📚 Actualmente aprendiendo  
-Estoy reforzando mis habilidades técnicas con:  
-- 🐍 **Python** (orientado a pruebas automatizadas con Pytest y requests).  
-- 💎 **Ruby** (para pruebas con frameworks como RSpec y Capybara).  
+## 🚀 Tecnologías y herramientas
+- ✅ **Pruebas funcionales y de regresión**  
+- ✅ **Automatización en curso** (Python, Ruby)  
+- ✅ **Validación de APIs** con Postman y SoapUI  
+- ✅ **Pruebas de carga** con JMeter  
+- ✅ **Gestión de incidencias** con Jira, Azure DevOps  
+- ✅ **Entornos en la nube**: AWS y GCP  
 
 ---
 
-## 📂 Proyectos destacados  
-- **QA Automation – App móvil de reservas (JetBlue)**  
-  Diseño y ejecución de pruebas funcionales y automatizadas para asegurar flujos de reserva y seguimiento de equipaje.  
+## 📂 Proyectos destacados
+🔹 **Proyecto QA - Urban Grocers API**  
+Pruebas automatizadas en Python con `pytest`, validando la creación y gestión de kits en la aplicación.  
 
-- **QA Web – Sector Financiero (Periferia IT Group)**  
-  Validación de aplicaciones bancarias con consultas SQL, pruebas de APIs REST/SOAP y reportes en Jira.  
-
-- **Proyecto Bootcamp – Urban Grocers API**  
-  Automatización de pruebas de creación de kits y validación de endpoints con Python + Pytest.  
+🔹 **Proyecto QA - Aplicación de Taxis**  
+Búsqueda de información en logs, consultas SQL y análisis de relaciones entre tablas para garantizar la integridad de datos.  
 
 ---
 
-## 📊 Tecnologías y Herramientas  
-`Java` | `Python` (aprendiendo) | `Ruby` (aprendiendo) | `JavaScript` | `Selenium` | `Appium` | `Cypress` |  
-`Postman` | `SoapUI` | `JMeter` | `SQL` | `Git/GitHub` | `Jira` | `Azure DevOps` | `AWS` | `GCP`  
+## 🌱 Actualmente aprendiendo
+- Programación en **Python y Ruby**  
+- Mejores prácticas en **automatización de pruebas**  
+- Frameworks de testing como **Selenium y Pytest**  
 
 ---
 
-## 📫 Conecta conmigo  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dafevaro/) 
-- 📧 Email: **Davidrodriguez290@gmail.com**  
-- 📍 Fusagasugá, Colombia  
+## 📫 Conéctemos
+- 🌐 [LinkedIn](https://www.linkedin.com/in/david80485)  
+- 💻 [GitHub](https://github.com/david80485)  
+- ✉️ davidrodriguez290@gmail.com  
 
 ---
 
-⭐ *“El rol del QA no es solo encontrar errores, sino asegurar que el producto entregue valor real a los usuarios.”*  
+⭐️ *Siempre abierto a nuevos retos y oportunidades en QA y automatización.*  
 
