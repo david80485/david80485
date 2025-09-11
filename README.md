@@ -39,7 +39,7 @@ Búsqueda de información en logs, consultas SQL y análisis de relaciones entre
 ---
 
 ## 📫 Conéctemos
-- 🌐 [LinkedIn](https://www.linkedin.com/in/david80485)  
+- 🌐 [LinkedIn](www.linkedin.com/in/dafevaro)  
 - 💻 [GitHub](https://github.com/david80485)  
 - ✉️ davidrodriguez290@gmail.com  
 
